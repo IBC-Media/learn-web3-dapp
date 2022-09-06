@@ -21,13 +21,7 @@ We will guide you through using the various blockchain JavaScript SDKs to intera
 - 🔜 Arweave
 - 🔜 Chainlink
 
-- [Let us know which one you'd like us to cover](https://github.com/figment-networks/learn-web3-dapp/issues)
-
-<img width="1024" alt="Screen Shot 1" src="https://raw.githubusercontent.com/figment-networks/learn-web3-dapp/main/markdown/__images__/readme_01.png">
-
-<img width="1024" alt="Screen Shot 2" src="https://raw.githubusercontent.com/figment-networks/learn-web3-dapp/main/markdown/__images__/readme-02.png">
-
-<img width="1024" alt="Screen Shot 3" src="https://raw.githubusercontent.com/figment-networks/learn-web3-dapp/main/markdown/__images__/readme-03.png">
+- [Let us know which one you'd like us to cover](https://github.com/IBC-Media/learn-web3-dapp/issues)
 
 # 🧑‍💻 Get started
 
@@ -35,7 +29,7 @@ We will guide you through using the various blockchain JavaScript SDKs to intera
 
 The best way to go through those courses is using [Gitpod](https://gitpod.io). Gitpod provides prebuilt developer environments in your browser, powered by VS Code. Just sign in using GitHub and you'll be up and running in seconds without having to do any manual setup 🔥
 
-[**Open this repo on Gitpod**](https://gitpod.io/#https://github.com/figment-networks/learn-web3-dapp)
+[**Open this repo on Gitpod**](https://gitpod.io/#https://github.com/IBC-Media/learn-web3-dapp)
 
 ## 🐑 Clone locally
 
@@ -44,7 +38,7 @@ Make sure you have installed [git](https://git-scm.com/book/en/v2/Getting-Starte
 Then clone the repo, install dependencies and start the server by running all these commands:
 
 ```text
-git clone https://github.com/figment-networks/learn-web3-dapp.git
+git clone https://github.com/IBC-Media/learn-web3-dapp.git
 cd learn-web3-dapp
 yarn
 yarn dev
@@ -52,10 +46,8 @@ yarn dev
 
 # 🤝 Feedback and contributing
 
-If you encounter any errors during this process, please join our [Discord](https://figment.io/devchat) for help.
-
 Feel free to also open an Issue or a Pull Request on the repo itself.
 
 We hope you enjoy our Web 3 education dApps 🚀
 
--- ❤️ The Figment Learn Team
+-- ❤️ The IBC.Media Learn Team
