@@ -1,6 +1,6 @@
 # 👋🏼 What is `learn-web3-dapp`?
 
-We made this decentralized application (dApp) to help developers learn about Web 3 protocols.
+We made this decentralized application (dApp) to help developers learn about Web3 protocols.
 
 It's a Next.js app that uses React, TypeScript and various smart contract languages (mostly Solidity and Rust).
 
@@ -48,6 +48,6 @@ yarn dev
 
 Feel free to also open an Issue or a Pull Request on the repo itself.
 
-We hope you enjoy our Web 3 education dApps 🚀
+We hope you enjoy our Web3 education dApps 🚀
 
 -- ❤️ The IBC.Media Learn Team
